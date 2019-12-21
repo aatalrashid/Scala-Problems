@@ -41,10 +41,3 @@ Do this exercise by implementing the countChange function inMain.scala. This fun
 Once again, you can make use of functions isEmpty, head and tail on the list of integers coins.
 
 Hint: Think of the degenerate cases. How many ways can you give change for 0 CHF(swiss money)? How many ways can you give change for >0 CHF, if you have no coins?
-
-How to submit
-Copy the token below and run the submission script included in the assignment download. When prompted, use your email address trevoratwijukire@gmail.com.
-
-Generate new token
-
-Your submission token is unique to you and should not be shared with anyone. You may submit as many times as you like.
