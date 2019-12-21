@@ -1,4 +1,4 @@
-# Scala-Problems
+# Practice Programming Assignment: Example Assignment
 
 The Assignment
 Part 1: Obtain the Project Files
